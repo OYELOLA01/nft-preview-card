@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(13, 26, 45) ;
+    margin: 0;
+    border: 0;
+}
+.div{
+    max-width: 400px;
+    height: 100%;
+    background-color: rgb(12, 24, 44);
+    margin:2rem auto;
+    border-radius: 10px;
+}
+.imgg{
+    width: 300px;
+    height: 100%;
+    margin: auto;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+    margin-top: 1rem;
+    border-radius: 10px;
+}
+h2{
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+}
+p{
+    font-size: 18px;
+    color: rgb(147, 167, 202);
+}
+h4{
+    color: rgb(36, 216, 218);
+}
+span{
+    color: white;
+}
+.icon{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 3rem;
+}
+.create{
+    display: flex;
+    align-items: center;
+    margin-left: 3rem;
+    border-top: 1px solid white;
+}
+.jules{
+    margin-left: 20px;
+
+}
